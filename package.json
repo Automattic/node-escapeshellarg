@@ -1,0 +1,11 @@
+{
+  "name": "escapeshellarg",
+  "version": "0.1.0",
+  "description": "Escape a string to be used as a shell argument.",
+  "main": "lib/escapeshellarg.js",
+  "scripts": {
+    "test": "node ./test/escapeshellarg_test"
+  },
+  "author": "Yuanyan Cao",
+  "license": "ISC"
+}
