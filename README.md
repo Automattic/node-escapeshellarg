@@ -6,10 +6,10 @@ node-escapeshellarg
 
 
 ```sh
-npm install escapeshellarg
+npm i --save "escapeshellarg@npm:@automattic/escapeshellarg@latest"
 ```
 
-```
+```js
 var escapeshellarg = require('escapeshellarg')
 escapeshellarg("Hello's world") // => "'Hello'\\''s world'"
 ```
