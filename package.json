@@ -1,6 +1,6 @@
 {
   "name": "@automattic/escapeshellarg",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Escape a string to be used as a shell argument.",
   "main": "lib/escapeshellarg.js",
   "scripts": {
